@@ -1,0 +1,27 @@
+<div class="flex properties__row properties">
+    <div class="flex left properties">
+        <span class="properties">
+            {{ if .Date }}
+            <span class="dt-published hidden">{{ .Date }}</span>
+            <a class="icon u-url" href="{{.Permalink}}">
+                {{ $diff := div (sub now.Unix .Date.Unix) 86400 }}
+                {{ if eq $diff 0 }}hoy mismo
+                {{ else }}
+                {{ if eq $diff -1 }}dentro de un día
+                {{ else }}
+                {{ if lt $diff 0 }}en {{ mul -1 $diff }} días
+                {{ else }}
+                {{ if eq $diff 1 }}hace un día
+                {{ else }}
+                hace {{ $diff }} días
+                {{ end }}{{ end }}{{ end }}{{ end }}
+            </a>
+            {{ end }}
+        </span>
+    </div>
+    <div class="flex right">
+        {{ range (.GetTerms "tags") }}
+        <a class="p-category properties" id="tag" href="{{ .Permalink }}">#{{.LinkTitle}}</a>
+        {{ end }}
+    </div>
+</div>

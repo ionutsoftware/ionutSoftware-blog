@@ -1,0 +1,84 @@
+baseURL: https://ionutSoftware.net
+languageCode: es-es
+title: El blog de un aficionado a la informática
+theme: indiefeed
+
+# How many feed entries to load at once
+paginate: 12
+
+taxonomies:
+  category: categorias
+  tag: etiquetas
+
+author:
+  name: Ionut Sebastian Florea
+  image: # relative to static/
+  about: La informática no es complicada, el cerebro humano si.
+  nickname: "@jpavonabian"
+  email: floreasebi01@gmail.com
+  domain: https://ionutSoftware.net
+
+params: # All of these are optional
+  # logo: heart.png # relative to ./static/
+  dateform: January 2, 2006
+  # customCSS: css/style.css # relative to ./static/
+  webmentionUrl: https://webmention.io/jesuspavonabian.es/webmention
+  pingbackUrl: https://webmention.io/jesuspavonabian.es/xmlrpc
+  micropubUrl: https://jesuspavonabian.es/netlify/functions/micropub
+  microsubUrl: https://aperture.p3k.io/microsub/jesuspavonabian
+  # For IndieAuth
+  githubuser: ionutsoftware
+  twitteruser: # no @ in front
+  mastodon: https://comunidad.nvda.es/@IonutSebastian_f # full link to your instance profile
+  # monetization: $xxxxxxx # Web Monetization payment pointer
+  # socialImage: static/img/social.png
+
+mediaTypes:
+  "application/atom+xml":
+    suffixes:
+      - "xml"
+
+outputFormats:
+  Atom:
+    name: "Atom"
+    mediaType: "application/atom+xml"
+    # generated file: <baseName>.<mediaType."application/atom+xml".suffixes[0]> = atom.xml
+    baseName: "atom"
+    isPlainText: false
+    rel: "alternate"
+    isHTML: false
+    permalinkable: false
+  Json:
+    name: "Json"
+    mediaType: "application/json"
+    # generated file: <baseName>.<mediaType."application/feed+json".suffixes[0]> = feed.json
+    baseName: "feed"
+    isPlainText: false
+    rel: "alternate"
+    isHTML: false
+    permalinkable: false
+
+outputs:
+  home:
+    - HTML
+    - ATOM
+    - JSON
+    - RSS
+  page:
+    - HTML
+  section:
+    - HTML
+  taxonomy:
+    - HTML
+  term:
+    - HTML
+    - ATOM
+    - JSON
+    - RSS
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: dracula
