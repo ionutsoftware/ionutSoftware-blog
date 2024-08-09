@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ionutsoftware.net/about/</loc>
-    <lastmod>2024-08-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ionutsoftware.net/</loc>
+    <lastmod>2024-08-09T19:15:31+03:00</lastmod>
+  </url><url>
+    <loc>https://ionutsoftware.net/post/</loc>
+    <lastmod>2024-08-09T19:15:31+03:00</lastmod>
+  </url><url>
+    <loc>https://ionutsoftware.net/post/raspberry-py-pico-primeros-pasos/</loc>
+    <lastmod>2024-08-09T19:15:31+03:00</lastmod>
+  </url><url>
+    <loc>https://ionutsoftware.net/about/</loc>
     <lastmod>2024-08-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ionutsoftware.net/categorias/</loc>
