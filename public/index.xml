@@ -8,54 +8,28 @@
     <language>es-es</language>
     <managingEditor>floreasebi01@gmail.com (Ionut Sebastian Florea)</managingEditor>
     <webMaster>floreasebi01@gmail.com (Ionut Sebastian Florea)</webMaster>
-    <lastBuildDate>Fri, 09 Aug 2024 12:34:35 +0300</lastBuildDate><atom:link href="https://ionutSoftware.net/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Primer Post</title>
-      <link>https://ionutSoftware.net/post/primer-post/</link>
-      <pubDate>Fri, 09 Aug 2024 12:34:35 +0300</pubDate>
-      <author>floreasebi01@gmail.com (Ionut Sebastian Florea)</author>
-      <guid>https://ionutSoftware.net/post/primer-post/</guid>
-      <description>#primer-post
-Este es el primer post, echo para probar Hugo, y todo el entramado.</description>
-      <content:encoded>
-      &lt;p&gt;#primer-post&lt;/p&gt;
-&lt;p&gt;Este es el primer post, echo para probar Hugo, y todo el entramado.&lt;/p&gt;
-
-      </content:encoded>
-    </item>
-    
+    <lastBuildDate>Fri, 09 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ionutSoftware.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿Quién soy?</title>
       <link>https://ionutSoftware.net/about/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
       <author>floreasebi01@gmail.com (Ionut Sebastian Florea)</author>
       <guid>https://ionutSoftware.net/about/</guid>
-      <description>Me llamo Sebi, y soy un estudiante de 4º de la ESO que encontró en su interior su vocación, la programación.
+      <description>Me llamo Sebi, y soy un estudiante de 1º de Bachiller que encontró en su interior su vocación, la programación.
 Programo todo tipo de cosas, aunque realmente me oriento más hacia la GUI (interfaz gráfica) y la programación de escritorio antes que la web. Sin embargo, no hago ascos a la web tampoco. ¡Siempre fui de la opinión de que la programación web conquistaría el mundo!
-¿Qué es Ionut Software?</description>
+¿Qué es Ionut Software? Ionut Software no deja de ser una idea avispada que se me ocurrió.</description>
       <content:encoded>
-      &lt;p&gt;Me llamo Sebi, y soy un estudiante de 4º de la ESO que encontró en su interior su vocación, la programación.&lt;/p&gt;
+      &lt;p&gt;Me llamo Sebi, y soy un estudiante de 1º  de Bachiller que encontró en su interior su vocación, la programación.&lt;/p&gt;
 &lt;p&gt;Programo todo tipo de cosas, aunque realmente me oriento más hacia la GUI (interfaz gráfica) y la programación de escritorio antes que la web. Sin embargo, no hago ascos a la web tampoco. ¡Siempre fui de la opinión de que la programación web conquistaría el mundo!&lt;/p&gt;
 &lt;h3 id=&#34;qué-es-ionut-software&#34;&gt;¿Qué es Ionut Software?&lt;/h3&gt;
 &lt;p&gt;Ionut Software no deja de ser una idea avispada que se me ocurrió. No sabía qué poner al adquirir un dominio, y utilicé mi primer nombre y la palabra &amp;ldquo;software&amp;rdquo; para mi dominio, siendo que me dedico a la creación de software (no de manera profesional) y más bien soy un aficionado a la informática y la programación. Poco tiempo después, me di cuenta de que realmente este seudónimo me gustaba, y decidí mantenerlo.&lt;/p&gt;
 &lt;h3 id=&#34;redes-sociales&#34;&gt;Redes sociales&lt;/h3&gt;
 &lt;p&gt;Puedes encontrarme en:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ionutsoftware/&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.tiktok.com/@__seebi11?_t=8ik9IwI2pIf&amp;amp;_r=1&#34;&gt;TikTok&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/elsebasuci?igsh=ODA1NTc5OTg5Nw%3D%3D&amp;amp;utm_source=qr&#34;&gt;Instagram&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Correo: &lt;a href=&#34;mailto:floreasebi01@gmail.com&#34;&gt;floreasebi01@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;mastodon: &lt;a rel=&#34;me&#34; href=&#34;https://comunidad.nvda.es/@IonutSebastian_f&#34;&gt;Mi perfil en Mastodon&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ionutsoftware/&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tiktok.com/@__seebi11?_t=8ik9IwI2pIf&amp;amp;_r=1&#34;&gt;TikTok&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/elsebasuci?igsh=ODA1NTc5OTg5Nw%3D%3D&amp;amp;utm_source=qr&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Correo: &lt;a href=&#34;mailto:floreasebi01@gmail.com&#34;&gt;floreasebi01@gmail.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </content:encoded>

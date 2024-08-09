@@ -2,28 +2,13 @@
   <title>El blog de un aficionado a la informática</title>
   <link href="https://ionutSoftware.net/feed.xml" rel="self"/>
   <link href="https://ionutSoftware.net/"/>
-  <updated>2024-08-09T12:34:35+03:00</updated>
+  <updated>2024-08-09T00:00:00+00:00</updated>
   <id>https://ionutSoftware.net/</id>
   <author>
     <name>Ionut Sebastian Florea</name>
     <email>floreasebi01@gmail.com</email>
   </author>
   <generator>Hugo -- gohugo.io</generator>
-  <entry>
-    <title type="html"><![CDATA[Primer Post]]></title>
-    <link href="https://ionutSoftware.net/post/primer-post/"/>
-    <id>https://ionutSoftware.net/post/primer-post/</id> 
-    <author>
-      <name>Ionut Sebastian Florea</name>
-    </author>
-    <published>2024-08-09T12:34:35+03:00</published>
-    <updated>2024-08-09T12:34:35+03:00</updated>
-    
-    <content type="html"><![CDATA[<p>#primer-post</p>
-<p>Este es el primer post, echo para probar Hugo, y todo el entramado.</p>
-]]></content>
-    
-  </entry>
   <entry>
     <title type="html"><![CDATA[¿Quién soy?]]></title>
     <link href="https://ionutSoftware.net/about/"/>
@@ -34,28 +19,17 @@
     <published>2024-08-09T00:00:00+00:00</published>
     <updated>2024-08-09T00:00:00+00:00</updated>
     
-    <content type="html"><![CDATA[<p>Me llamo Sebi, y soy un estudiante de 4º de la ESO que encontró en su interior su vocación, la programación.</p>
+    <content type="html"><![CDATA[<p>Me llamo Sebi, y soy un estudiante de 1º  de Bachiller que encontró en su interior su vocación, la programación.</p>
 <p>Programo todo tipo de cosas, aunque realmente me oriento más hacia la GUI (interfaz gráfica) y la programación de escritorio antes que la web. Sin embargo, no hago ascos a la web tampoco. ¡Siempre fui de la opinión de que la programación web conquistaría el mundo!</p>
 <h3 id="qué-es-ionut-software">¿Qué es Ionut Software?</h3>
 <p>Ionut Software no deja de ser una idea avispada que se me ocurrió. No sabía qué poner al adquirir un dominio, y utilicé mi primer nombre y la palabra &ldquo;software&rdquo; para mi dominio, siendo que me dedico a la creación de software (no de manera profesional) y más bien soy un aficionado a la informática y la programación. Poco tiempo después, me di cuenta de que realmente este seudónimo me gustaba, y decidí mantenerlo.</p>
 <h3 id="redes-sociales">Redes sociales</h3>
 <p>Puedes encontrarme en:</p>
 <ul>
-<li>
-<p><a href="https://github.com/ionutsoftware/">GitHub</a></p>
-</li>
-<li>
-<p><a href="https://www.tiktok.com/@__seebi11?_t=8ik9IwI2pIf&amp;_r=1">TikTok</a></p>
-</li>
-<li>
-<p><a href="https://www.instagram.com/elsebasuci?igsh=ODA1NTc5OTg5Nw%3D%3D&amp;utm_source=qr">Instagram</a></p>
-</li>
-<li>
-<p>Correo: <a href="mailto:floreasebi01@gmail.com">floreasebi01@gmail.com</a></p>
-</li>
-<li>
-<p>mastodon: <a rel="me" href="https://comunidad.nvda.es/@IonutSebastian_f">Mi perfil en Mastodon</a></p>
-</li>
+<li><a href="https://github.com/ionutsoftware/">GitHub</a></li>
+<li><a href="https://www.tiktok.com/@__seebi11?_t=8ik9IwI2pIf&amp;_r=1">TikTok</a></li>
+<li><a href="https://www.instagram.com/elsebasuci?igsh=ODA1NTc5OTg5Nw%3D%3D&amp;utm_source=qr">Instagram</a></li>
+<li>Correo: <a href="mailto:floreasebi01@gmail.com">floreasebi01@gmail.com</a></li>
 </ul>
 ]]></content>
     
