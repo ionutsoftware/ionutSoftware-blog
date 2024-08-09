@@ -29,7 +29,7 @@ params: # All of these are optional
   # For IndieAuth
   githubuser: ionutsoftware
   twitteruser: # no @ in front
-  mastodon: '<a rel="me" href="https://comunidad.nvda.es/@IonutSebastian_f">Mi perfil en Mastodon</a>' # full link to your instance profile
+  mastodon: https://comunidad.nvda.es/@IonutSebastian_F # full link to your instance profile
   # monetization: $xxxxxxx # Web Monetization payment pointer
   # socialImage: static/img/social.png
 
