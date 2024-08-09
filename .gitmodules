@@ -1,0 +1,3 @@
+[submodule "themes/indiefeed"]
+	path = themes/indiefeed
+	url = https://github.com/dianoetic/indiefeed.git
