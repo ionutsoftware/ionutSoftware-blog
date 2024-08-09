@@ -1,4 +1,4 @@
-baseURL: https://ionutSoftware.net
+baseURL: https://ionutsoftware.net
 languageCode: es-es
 title: El blog de un aficionado a la informática
 theme: indiefeed
@@ -16,7 +16,7 @@ author:
   about: La informática no es complicada, el cerebro humano si.
   nickname: "@ionutsoftware"
   email: floreasebi01@gmail.com
-  domain: https://ionutSoftware.net
+  domain: https://ionutsoftware.net
 
 params: # All of these are optional
   # logo: heart.png # relative to ./static/
@@ -24,7 +24,7 @@ params: # All of these are optional
   # customCSS: css/style.css # relative to ./static/
   webmentionUrl: https://webmention.io/ionutsoftware.net/webmention
   pingbackUrl: https://webmention.io/ionutsoftware.net/xmlrpc
-  micropubUrl: https://ionutSoftware.net/netlify/functions/micropub
+  micropubUrl: https://ionutsoftware.net/netlify/functions/micropub
   microsubUrl: https://aperture.p3k.io/microsub/970
   # For IndieAuth
   githubuser: ionutsoftware

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">>
   <channel>
     <title>El blog de un aficionado a la informática</title>
-    <link>https://ionutSoftware.net/</link>
+    <link>https://ionutsoftware.net/</link>
     <description>Read the latest on El blog de un aficionado a la informática</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>floreasebi01@gmail.com (Ionut Sebastian Florea)</managingEditor>
     <webMaster>floreasebi01@gmail.com (Ionut Sebastian Florea)</webMaster>
-    <lastBuildDate>Fri, 09 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ionutSoftware.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ionutsoftware.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿Quién soy?</title>
-      <link>https://ionutSoftware.net/about/</link>
+      <link>https://ionutsoftware.net/about/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
       <author>floreasebi01@gmail.com (Ionut Sebastian Florea)</author>
-      <guid>https://ionutSoftware.net/about/</guid>
+      <guid>https://ionutsoftware.net/about/</guid>
       <description>Me llamo Sebi, y soy un estudiante de 1º de Bachiller que encontró en su interior su vocación, la programación.
 Programo todo tipo de cosas, aunque realmente me oriento más hacia la GUI (interfaz gráfica) y la programación de escritorio antes que la web. Sin embargo, no hago ascos a la web tampoco. ¡Siempre fui de la opinión de que la programación web conquistaría el mundo!
 ¿Qué es Ionut Software? Ionut Software no deja de ser una idea avispada que se me ocurrió.</description>

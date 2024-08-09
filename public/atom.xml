@@ -1,9 +1,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>El blog de un aficionado a la informática</title>
-  <link href="https://ionutSoftware.net/feed.xml" rel="self"/>
-  <link href="https://ionutSoftware.net/"/>
+  <link href="https://ionutsoftware.net/feed.xml" rel="self"/>
+  <link href="https://ionutsoftware.net/"/>
   <updated>2024-08-09T00:00:00+00:00</updated>
-  <id>https://ionutSoftware.net/</id>
+  <id>https://ionutsoftware.net/</id>
   <author>
     <name>Ionut Sebastian Florea</name>
     <email>floreasebi01@gmail.com</email>
@@ -11,8 +11,8 @@
   <generator>Hugo -- gohugo.io</generator>
   <entry>
     <title type="html"><![CDATA[¿Quién soy?]]></title>
-    <link href="https://ionutSoftware.net/about/"/>
-    <id>https://ionutSoftware.net/about/</id> 
+    <link href="https://ionutsoftware.net/about/"/>
+    <id>https://ionutsoftware.net/about/</id> 
     <author>
       <name>Ionut Sebastian Florea</name>
     </author>
