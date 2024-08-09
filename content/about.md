@@ -19,3 +19,5 @@ Puedes encontrarme en:
 - [TikTok](https://www.tiktok.com/@__seebi11?_t=8ik9IwI2pIf&_r=1)
 - [Instagram](https://www.instagram.com/elsebasuci?igsh=ODA1NTc5OTg5Nw%3D%3D&utm_source=qr)
 - Correo: [floreasebi01@gmail.com](mailto:floreasebi01@gmail.com)
+
+- mastodon: <a rel="me" href="https://comunidad.nvda.es/@IonutSebastian_f">Mi perfil en Mastodon</a>
