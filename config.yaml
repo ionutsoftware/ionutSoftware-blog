@@ -22,10 +22,10 @@ params: # All of these are optional
   # logo: heart.png # relative to ./static/
   dateform: January 2, 2006
   # customCSS: css/style.css # relative to ./static/
-  webmentionUrl: https://webmention.io/ionutSoftware.net/webmention
-  pingbackUrl: https://webmention.io/ionutSoftware.net/xmlrpc
+  webmentionUrl: https://webmention.io/ionutsoftware.net/webmention
+  pingbackUrl: https://webmention.io/ionutsoftware.net/xmlrpc
   micropubUrl: https://ionutSoftware.net/netlify/functions/micropub
-  microsubUrl: https://aperture.p3k.io/microsub/ionutSoftware
+  microsubUrl: https://aperture.p3k.io/microsub/970
   # For IndieAuth
   githubuser: ionutsoftware
   twitteruser: # no @ in front
