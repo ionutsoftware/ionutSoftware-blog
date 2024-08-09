@@ -3,7 +3,7 @@ title: "¿Quién soy?"
 date: "2024-08-09"
 ---
 
-Me llamo Sebi, y soy un estudiante de 4º de la ESO que encontró en su interior su vocación, la programación.
+Me llamo Sebi, y soy un estudiante de 1º  de Bachiller que encontró en su interior su vocación, la programación.
 
 Programo todo tipo de cosas, aunque realmente me oriento más hacia la GUI (interfaz gráfica) y la programación de escritorio antes que la web. Sin embargo, no hago ascos a la web tampoco. ¡Siempre fui de la opinión de que la programación web conquistaría el mundo!
 
