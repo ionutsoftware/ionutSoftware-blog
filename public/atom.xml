@@ -10,6 +10,21 @@
   </author>
   <generator>Hugo -- gohugo.io</generator>
   <entry>
+    <title type="html"><![CDATA[Primer Post]]></title>
+    <link href="https://ionutSoftware.net/post/primer-post/"/>
+    <id>https://ionutSoftware.net/post/primer-post/</id> 
+    <author>
+      <name>Ionut Sebastian Florea</name>
+    </author>
+    <published>2024-08-09T12:34:35+03:00</published>
+    <updated>2024-08-09T12:34:35+03:00</updated>
+    
+    <content type="html"><![CDATA[<p>#primer-post</p>
+<p>Este es el primer post, echo para probar Hugo, y todo el entramado.</p>
+]]></content>
+    
+  </entry>
+  <entry>
     <title type="html"><![CDATA[¿Quién soy?]]></title>
     <link href="https://ionutSoftware.net/about/"/>
     <id>https://ionutSoftware.net/about/</id> 

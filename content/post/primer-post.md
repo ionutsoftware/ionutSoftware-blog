@@ -5,7 +5,7 @@ reply:
 uri: "https://ionutSoftware.net/post/primer-post"
 categories: ["anything else"] # note, reply, anything else
 tags:
-draft: true
+draft: false
 ---
 
 

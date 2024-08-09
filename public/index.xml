@@ -10,6 +10,21 @@
     <webMaster>floreasebi01@gmail.com (Ionut Sebastian Florea)</webMaster>
     <lastBuildDate>Fri, 09 Aug 2024 12:34:35 +0300</lastBuildDate><atom:link href="https://ionutSoftware.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Primer Post</title>
+      <link>https://ionutSoftware.net/post/primer-post/</link>
+      <pubDate>Fri, 09 Aug 2024 12:34:35 +0300</pubDate>
+      <author>floreasebi01@gmail.com (Ionut Sebastian Florea)</author>
+      <guid>https://ionutSoftware.net/post/primer-post/</guid>
+      <description>#primer-post
+Este es el primer post, echo para probar Hugo, y todo el entramado.</description>
+      <content:encoded>
+      &lt;p&gt;#primer-post&lt;/p&gt;
+&lt;p&gt;Este es el primer post, echo para probar Hugo, y todo el entramado.&lt;/p&gt;
+
+      </content:encoded>
+    </item>
+    
+    <item>
       <title>¿Quién soy?</title>
       <link>https://ionutSoftware.net/about/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
